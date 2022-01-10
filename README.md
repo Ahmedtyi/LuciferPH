@@ -44,5 +44,5 @@ TAP THIS: [![Run on Bot](https://t.me/StringXRobot)](https://t.me/StringXRobot)
 ## 💜 Deploy To Heroku
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheOnlyMrLucifer/LuciferPH)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ahmedhmis/LuciferPH)
 
