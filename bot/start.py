@@ -87,7 +87,7 @@ async def alive(_, m: Message):
                     InlineKeyboardButton(
                         "👩‍💻 Developer", url=f"https://t.me/TheOnlyMrLucifer")
                ]
-            [
+            ]
         )
     )
 
