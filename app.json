@@ -7,7 +7,7 @@
         "telegram bot",
         "video stream"
     ],
-    "repository": "https://github.com/TheOnlyMrLucifer/LuciferPH",
+    "repository": "https://github.com/Ahmedhmis/LuciferPH",
     "env": {
         "API_ID": {
             "description": "your APP_ID from my.telegram.org",
