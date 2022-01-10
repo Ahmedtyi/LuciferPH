@@ -1,1 +1,1 @@
-worker: python3 bellayt.py
+worker: python3 -m bot
